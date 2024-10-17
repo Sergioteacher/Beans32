@@ -18,6 +18,7 @@ public class Beans32 {
         System.out.println("Iniciando el programa ...");
         System.out.println("pensando ...");
         System.out.println("y más ...");
+        System.out.println("4444444444444444444444 ...");
         //System.out.print("El primer parámetro es: ");
         //System.out.println( args[0]   );
     }
